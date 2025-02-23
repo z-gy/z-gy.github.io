@@ -1,4 +1,4 @@
-Tongtong is my everything, and my love for her is unshakable. I wish we can continue walking together for a long time! 
+Tongtong is my everything, and my love for her is unshakable! I wish we can grow old together. 
 
 Below is a blog about the little moments in our daily life.
 
