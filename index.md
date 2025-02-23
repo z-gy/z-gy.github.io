@@ -1,39 +1,29 @@
 ---
 layout: default
-title: My Awesome Website
+title: zgy's Website
 description: This is a sample website created using Markdown and GitHub Pages.
 ---
 
 # Welcome to My Website
 
-Welcome to my personal website! This site is built using **Markdown** and hosted on **GitHub Pages**. You can edit this file to update your content.
+Welcome to my personal website! This site is built using **Markdown** and hosted on **GitHub Pages**.
 
 ## About Me
 
 I am a second-year student at the Department of Electronic Engineering at Tsinghua University. Currently, my primary research focus is on large-scale speech models.
+
 You can find more information about me on my [GitHub profile](https://github.com/z-gy).
+
+## Notes of THUee courses
+[link](course_notes.md)
 
 ### My Projects
 
-Here are some of the projects I've worked on:
+[link](projects.md)
 
-- **Project 1**: [Link to project](https://github.com/yourusername/project1)
-- **Project 2**: [Link to project](https://github.com/yourusername/project2)
+## My life
 
-## Skills
-
-I specialize in the following technologies:
-
-- **Programming Languages**: Python, JavaScript, C++
-- **Web Technologies**: HTML, CSS, JavaScript, Jekyll, GitHub Pages
-
-## My Blog
-
-I occasionally write blog posts on topics like programming, technology, and open-source software. Check out my latest post:
-
-- [How to use GitHub Pages for static websites](https://yourusername.github.io/your-post)
-
-![Example Image](https://via.placeholder.com/600x300)
+[link](love.md)
 
 ## Contact
 
