@@ -14,16 +14,11 @@ I am a second-year student at the Department of Electronic Engineering at Tsingh
 
 You can find more information about me on my [GitHub profile](https://github.com/z-gy).
 
-## Notes of THUee courses
-[link](course_notes.md)
+## [Notes of THUee courses](course_notes.md)
 
-### My Projects
+## [My Projects](projects.md)
 
-[link](projects.md)
-
-## My life
-
-[link](love.md)
+## [My life](love.md)
 
 ## Contact
 
