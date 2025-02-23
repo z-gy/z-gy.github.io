@@ -8,17 +8,13 @@ description: This is a sample website created using Markdown and GitHub Pages.
 
 Welcome to my personal website! This site is built using **Markdown** and hosted on **GitHub Pages**.
 
-## About Me
+## [About Me](about.md)
 
-I am a second-year student at the Department of Electronic Engineering at Tsinghua University. Currently, my primary research focus is on large-scale speech models.
-
-You can find more information about me on my [GitHub profile](https://github.com/z-gy).
-
-## [Notes of THUee courses](course_notes.md)
+## [My life](love.md)
 
 ## [My Projects](projects.md)
 
-## [My life](love.md)
+## [Notes of THUee courses](course_notes.md)
 
 ## Contact
 
