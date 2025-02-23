@@ -10,7 +10,8 @@ Welcome to my personal website! This site is built using **Markdown** and hosted
 
 ## About Me
 
-I am a software developer who loves open-source projects and building cool websites. You can find more information about me on my [GitHub profile](https://github.com/yourusername).
+I am a second-year student at the Department of Electronic Engineering at Tsinghua University. Currently, my primary research focus is on large-scale speech models.
+You can find more information about me on my [GitHub profile](https://github.com/z-gy).
 
 ### My Projects
 
@@ -36,7 +37,7 @@ I occasionally write blog posts on topics like programming, technology, and open
 
 ## Contact
 
-Feel free to reach out to me via email at [your-email@example.com](mailto:your-email@example.com).
+Feel free to reach out to me via email at [zgy_thuee@outlook.com](mailto:zgy_thuee@outlook.com).
 
 ---
 
