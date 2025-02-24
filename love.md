@@ -4,7 +4,7 @@ Below is a blog about the little moments in our daily life.
 
 2025.1.10: went to Shichahai and be together. It was so cold that night, but nothing can stop two passionate hearts from drawing close to each other.
 
-2025.2.8: back from winter vacation filled with missing, we went to Peking Univ. by foot. Although boasting more twisted paths through twilight shades, I still deem PKU nothing more romantic than THU :").
+2025.2.8: back from winter vacation filled with missing, we went to Peking Univ. by foot. Although boasting more twisted paths through twilight shades, I still deem PKU nothing more romantic than THU :).
 
 2025.2.14: Valentine's Day! I had no idea what to do in this day, so we climbed the mountain. We chose a classic route of Fragrant Hills--Western Hill--Badachu Park. She was much more energetic and strong than I had thought!
 

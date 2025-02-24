@@ -4,7 +4,7 @@ baseurl: "/"
 url: "https://z-gy.github.io"
 
 # GitHub Pages theme settings (选择一个漂亮的主题)
-theme: "minima"
+theme: "jekyll-theme-minima"
 
 # 头像配置
 avatar: "/assets/images/profile.jpg"
