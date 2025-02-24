@@ -17,10 +17,10 @@ a:visited {
     color: white; 
 }
 /* 隐藏页眉页脚 */
-.site-header .github-profile-link {
+header .view a {
     display: none;  /* 隐藏 GitHub Profile 链接 */
 }
-footer .site-info {
+footer small {
     display: none;  /* 隐藏具体的版权信息 */
 }
 body {
