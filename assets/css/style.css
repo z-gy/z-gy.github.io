@@ -1,3 +1,11 @@
+body {
+    background-image: url("/assets/images/background.jpg");  /* 背景图片路径 */
+    background-size: cover;  /* 图片覆盖整个屏幕 */
+    background-position: center center;  /* 背景居中 */
+    background-attachment: fixed;  /* 背景固定 */
+    font-family: Arial, sans-serif;  /* 设置字体 */
+    color: #ffffff;  /* 设置文字颜色 */
+}
 /* 将头像固定在页面右上角 */
 .avatar {
     position: fixed;  /* 固定定位 */
@@ -23,19 +31,15 @@ header .view a {
 footer small {
     display: none;  /* 隐藏具体的版权信息 */
 }
+section hr{
+    position: fixed;  /* 固定定位 */
+    bottom: 100px;  
+}
 section blockquote {
-    margin-top: 50px;
-    padding: 20px;
+    position: fixed;  /* 固定定位 */
+    bottom: 50px;  
     text-align: center;
     color: white;
     font-size: 18px;
     font-style: italic;
   }
-body {
-    background-image: url("/assets/images/background.jpg");  /* 背景图片路径 */
-    background-size: cover;  /* 图片覆盖整个屏幕 */
-    background-position: center center;  /* 背景居中 */
-    background-attachment: fixed;  /* 背景固定 */
-    font-family: Arial, sans-serif;  /* 设置字体 */
-    color: #ffffff;  /* 设置文字颜色 */
-}
