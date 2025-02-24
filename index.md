@@ -7,9 +7,12 @@ description: This is a sample website created using Markdown and GitHub Pages.
 <!-- 添加头像 -->
 <img src="/assets/images/profile.jpg" alt="Avatar" class="avatar">
 
+---
+
 # Welcome to My Website
 
 Welcome to my personal website! This site is built using **Markdown** and hosted on **GitHub Pages**.
+
 
 ## [About Me](about.md)
 

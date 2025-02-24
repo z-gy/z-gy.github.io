@@ -1,13 +1,14 @@
 /* 将头像固定在页面右上角 */
 .avatar {
     position: fixed;  /* 固定定位 */
-    top: 100px;        /* 距离顶部 10px */
+    top: 80px;        /* 距离顶部 10px */
     right: 100px;      /* 距离右侧 10px */
     width: 100px;      /* 头像宽度 */
     height: 100px;     /* 头像高度 */
     border-radius: 20%; /* 圆形边框 */
     border: 2px solid #ffffff;  /* 边框颜色和宽度 */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);  /* 为头像添加阴影效果 */
+    z-index: 1;             /* 确保头像显示在最上层 */
 }
 a {
     color: white;
