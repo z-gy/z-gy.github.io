@@ -1,13 +1,19 @@
 /* 将头像固定在页面右上角 */
 .avatar {
     position: fixed;  /* 固定定位 */
-    top: 10px;        /* 距离顶部 10px */
-    right: 10px;      /* 距离右侧 10px */
-    width: 80px;      /* 头像宽度 */
-    height: 80px;     /* 头像高度 */
-    border-radius: 50%; /* 圆形边框 */
-    border: 3px solid #000000;  /* 边框颜色和宽度 */
-    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);  为头像添加阴影效果 */
+    top: 100px;        /* 距离顶部 10px */
+    right: 100px;      /* 距离右侧 10px */
+    width: 100px;      /* 头像宽度 */
+    height: 100px;     /* 头像高度 */
+    border-radius: 20%; /* 圆形边框 */
+    border: 2px solid #ffffff;  /* 边框颜色和宽度 */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);  /* 为头像添加阴影效果 */
+}
+a {
+    color: white;
+}
+a:visited {
+    color: white; 
 }
 body {
     background-image: url("/assets/images/background.jpg");  /* 背景图片路径 */
