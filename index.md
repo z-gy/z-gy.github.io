@@ -9,20 +9,18 @@ description: This is a sample website created using Markdown and GitHub Pages.
 
 ---
 
-# Welcome to My Website
-
 Welcome to my personal website! This site is built using **Markdown** and hosted on **GitHub Pages**.
 
 
-## [About Me](about.md)
+# [About Me](about.md)
 
-## [My life](love.md)
+# [My life](love.md)
 
-## [My Projects](projects.md)
+# [My Projects](projects.md)
 
-## [Notes of THUee courses](course_notes.md)
+# [Notes of THUee courses](course_notes.md)
 
-## Contact
+# Contact
 
 Feel free to reach out to me via email at [zgy_thuee@outlook.com](mailto:zgy_thuee@outlook.com).
 
