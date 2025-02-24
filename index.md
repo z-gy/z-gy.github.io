@@ -1,6 +1,6 @@
 ---
 layout: default
-title: zgy's Website
+title: home
 description: This is a sample website created using Markdown and GitHub Pages.
 ---
 
