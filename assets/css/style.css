@@ -23,11 +23,10 @@ header .view a {
 footer small {
     display: none;  /* 隐藏具体的版权信息 */
 }
-footer {
+/* footer {
     margin-top: 50px;
     padding: 20px;
     text-align: center;
-    background-color: #333;
     color: white;
     font-size: 18px;
     font-style: italic;
@@ -35,7 +34,7 @@ footer {
   
 footer p {
     margin: 0;
-}
+} */
 body {
     background-image: url("/assets/images/background.jpg");  /* 背景图片路径 */
     background-size: cover;  /* 图片覆盖整个屏幕 */
