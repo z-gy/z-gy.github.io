@@ -1,0 +1,8 @@
+body {
+    background-image: url("/assets/images/background.jpg");  /* 背景图片路径 */
+    background-size: cover;  /* 图片覆盖整个屏幕 */
+    background-position: center center;  /* 背景居中 */
+    background-attachment: fixed;  /* 背景固定 */
+    font-family: Arial, sans-serif;  /* 设置字体 */
+    color: #fff;  /* 设置文字颜色 */
+}

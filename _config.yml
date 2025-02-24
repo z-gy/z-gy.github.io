@@ -1,2 +1,14 @@
-title: zgy's Website
-theme: minima
+title: "HomePage"
+email: "zgy_thuee@outlook.com"
+baseurl: "/"
+url: "https://z-gy.github.io"
+
+# GitHub Pages theme settings (选择一个漂亮的主题)
+theme: "minimal"
+theme_color: "#4CAF50"
+
+# 头像配置
+avatar: "/assets/images/profile.jpg"
+
+# 添加背景图片和自定义 CSS
+custom_css: "assets/css/style.css"  # 引用自定义 CSS 文件

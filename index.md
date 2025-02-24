@@ -20,6 +20,8 @@ Welcome to my personal website! This site is built using **Markdown** and hosted
 
 Feel free to reach out to me via email at [zgy_thuee@outlook.com](mailto:zgy_thuee@outlook.com).
 
+![avatar](assets/images/profile.jpg)
+
 ---
 
 > "Strive not to be a success, but rather to be of value." – Albert Einstein
