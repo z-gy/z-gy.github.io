@@ -4,7 +4,7 @@ baseurl: "/"
 url: "https://z-gy.github.io"
 
 # GitHub Pages theme settings (选择一个漂亮的主题)
-theme: "minimal"
+theme: "jekyll-theme-minimal"
 theme_color: "#4CAF50"
 
 # 头像配置
