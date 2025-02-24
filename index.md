@@ -4,6 +4,9 @@ title: home
 description: This is a sample website created using Markdown and GitHub Pages.
 ---
 
+<!-- 添加头像 -->
+<img src="/assets/images/profile.jpg" alt="Avatar" class="avatar">
+
 # Welcome to My Website
 
 Welcome to my personal website! This site is built using **Markdown** and hosted on **GitHub Pages**.
@@ -19,8 +22,6 @@ Welcome to my personal website! This site is built using **Markdown** and hosted
 ## Contact
 
 Feel free to reach out to me via email at [zgy_thuee@outlook.com](mailto:zgy_thuee@outlook.com).
-
-![avatar](assets/images/profile.jpg)
 
 ---
 
