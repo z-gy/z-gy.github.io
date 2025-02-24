@@ -16,6 +16,13 @@ a {
 a:visited {
     color: white; 
 }
+/* 隐藏页眉页脚 */
+.site-header .github-profile-link {
+    display: none;  /* 隐藏 GitHub Profile 链接 */
+}
+footer .site-info {
+    display: none;  /* 隐藏具体的版权信息 */
+}
 body {
     background-image: url("/assets/images/background.jpg");  /* 背景图片路径 */
     background-size: cover;  /* 图片覆盖整个屏幕 */
