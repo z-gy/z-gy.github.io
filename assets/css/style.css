@@ -31,10 +31,6 @@ header .view a {
 footer small {
     display: none;  /* 隐藏具体的版权信息 */
 }
-section hr{
-    position: fixed;  /* 固定定位 */
-    bottom: 100px;  
-}
 section blockquote {
     position: fixed;  /* 固定定位 */
     bottom: 50px;  
