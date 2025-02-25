@@ -31,7 +31,7 @@ You can find more information about me on my [GitHub profile](https://github.com
 Feel free to reach out to me via email at [zgy_thuee@outlook.com](mailto:zgy_thuee@outlook.com).
 
 ---
-<!-- Footer Section -->
+
 <footer>
   <p>"Strive not to be a success, but rather to be of value." – Albert Einstein</p>
 </footer>
