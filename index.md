@@ -4,7 +4,6 @@ title: home
 description: This is a sample website created using Markdown and GitHub Pages.
 ---
 
-<!-- 添加头像 -->
 <img src="/assets/images/profile.jpg" alt="Avatar" class="avatar">
 
 ---
@@ -20,7 +19,7 @@ I like doing sports, including playing badminton, table tennis, soccer, hiking, 
 
 You can find more information about me on my [GitHub profile](https://github.com/z-gy).
 
-# [My love](love.md)
+<!-- # [My love](love.md) -->
 
 # [My Projects](projects.md)
 
