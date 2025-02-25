@@ -40,4 +40,5 @@ section blockquote {
     color: white;
     font-size: 18px;
     font-style: italic;
+    white-space: nowrap;           /* 禁止文本换行 */
   }
