@@ -12,7 +12,7 @@ description: This is a sample website created using Markdown and GitHub Pages.
 Welcome to my personal website! This site is built using **Markdown** and hosted on **GitHub Pages**.
 
 
-# [About Me]
+# About Me
 
 I am a second-year student at the Department of Electronic Engineering at Tsinghua University. Currently, my primary research focus is on large-scale speech models.
 
