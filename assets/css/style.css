@@ -31,7 +31,7 @@ header .view a {
 footer small {
     display: none;  /* 隐藏具体的版权信息 */
 }
-section footer {
+section footer p {
     position: fixed;  /* 固定定位 */
     bottom: 50px;  
     text-align: center;
