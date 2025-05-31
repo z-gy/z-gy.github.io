@@ -1,3 +1,1 @@
-Contributing to InterSpeech 2025.
-
-If published, I will give the article and code link here.
+Published *Empowering Large Language Models for End-to-End Speech Translation Leveraging Synthetic Data* on InterSpeech 2025.
